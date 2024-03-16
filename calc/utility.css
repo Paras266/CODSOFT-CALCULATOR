@@ -1,0 +1,20 @@
+.text-center{
+    text-align: center;
+}
+.bg-color{
+    background-color: paleturquoise;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.flex-column{
+    flex-direction: column;
+}
+.eql{
+    background-color: rgb(243, 165, 21);
+}
+.opr{
+    color: rgb(33, 235, 33);
+}
